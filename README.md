@@ -11,3 +11,5 @@ Esta versión es una versión mejorada de la aplicación anterior
 
 # Edición desde GitHub
 Este es un párrafo editado desde GitHub, será insertado en una tercera rama
+
+Cambios Adriel
